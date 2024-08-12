@@ -20,3 +20,9 @@
 4. wap in c to enter the number and store the number across the following structure then print the content of each member of the structure also agregate each member of the structure to form the original number and print the same. Struct pkt(ch1,ch2[2],ch3)
 
 5. wap in c to check weather the host machine is in little endian of big endian.(Enter a number print the content of each byte location and convert the endian ness of same)
+
+# LAB 4
+
+1. WAP in UDP to send a message from client to server device.
+
+2. WAP in UDP to send a message from server to client device.
