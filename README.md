@@ -9,3 +9,14 @@
 <stdlib.h>
 
 5. wap in c to write some contents(characters values) to a text files and read the same.
+
+# LAB 2
+1. wap in c to swap the content of two variables using pointers.
+
+2. wap in c to assign values to each member of the following structure to pass the populated structure to function using call by address mechanism and print the value of each member of the structure using another function struct info(int rollno ,char name[50],float cgpa)
+
+3. wap in c to extract each byte from a given integer number and store them in separate character variables then print the contents of those variables 
+
+4. wap in c to enter the number and store the number across the following structure then print the content of each member of the structure also agregate each member of the structure to form the original number and print the same. Struct pkt(ch1,ch2[2],ch3)
+
+5. wap in c to check weather the host machine is in little endian of big endian.(Enter a number print the content of each byte location and convert the endian ness of same)
