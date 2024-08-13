@@ -26,3 +26,6 @@
 1. WAP in UDP to send a message from client to server device.
 
 2. WAP in UDP to send a message from server to client device.
+
+3. write a sender and recevier program in c using connectionless socket(UDP) both of them we exchange messages with each other continiously if any 
+one of them will receive the the exit message from the other end then both of them will close the connection.
