@@ -21,7 +21,7 @@
 
 5. wap in c to check weather the host machine is in little endian of big endian.(Enter a number print the content of each byte location and convert the endian ness of same)
 
-# LAB 4
+# LAB 3
 
 1. WAP in UDP to send a message from client to server device.
 
@@ -29,3 +29,13 @@
 
 3. write a sender and recevier program in c using connectionless socket(UDP) both of them we exchange messages with each other continiously if any 
 one of them will receive the the exit message from the other end then both of them will close the connection.
+
+# Lab 4
+
+1. Wap in c using TCP where server and client will exchange the message.
+
+2. write a socket program in c TCP where the server and client both exchange the messages after message exchange is over , the client sends a close message to the server to close the connection.
+
+# Lab 5
+
+![alt text](http://url/to/img.png)
