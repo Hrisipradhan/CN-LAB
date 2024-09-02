@@ -38,4 +38,4 @@ one of them will receive the the exit message from the other end then both of th
 
 # Lab 5
 
-![alt text](https://github.com/[Hrisipradhan]/[CN-LAB]/blob/[main]/Lab5.png?raw=true)
+![Lab5](https://github.com/user-attachments/assets/7e0025de-d653-4c24-b8e3-c1c1beaf7e55)
